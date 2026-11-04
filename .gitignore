@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Eigene Ignores
+Project-Robot-main.code-workspace
